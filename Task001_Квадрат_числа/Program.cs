@@ -1,4 +1,6 @@
-﻿System.Console.Write("Введите число 1: ");
+﻿// Найти квадрат числа.
+
+System.Console.Write("Введите число 1: ");
 
 int Number1 = int.Parse(Console.ReadLine());
 

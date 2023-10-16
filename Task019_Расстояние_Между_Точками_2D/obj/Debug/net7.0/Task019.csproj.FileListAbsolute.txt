@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\bin\Debug\net7.0\Task019.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\bin\Debug\net7.0\Task019.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\bin\Debug\net7.0\Task019.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\bin\Debug\net7.0\Task019.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\bin\Debug\net7.0\Task019.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\obj\Debug\net7.0\Task019.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\obj\Debug\net7.0\Task019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\obj\Debug\net7.0\Task019.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\obj\Debug\net7.0\Task019.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\obj\Debug\net7.0\Task019.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\obj\Debug\net7.0\Task019.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\obj\Debug\net7.0\refint\Task019.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\obj\Debug\net7.0\Task019.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\obj\Debug\net7.0\Task019.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task019\obj\Debug\net7.0\ref\Task019.dll

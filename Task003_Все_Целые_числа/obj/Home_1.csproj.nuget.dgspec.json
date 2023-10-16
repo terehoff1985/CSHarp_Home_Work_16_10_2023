@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\C#_12_10_2023\\Task003\\Home_1.csproj": {}
+    "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\C#_12_10_2023\\Task003_Все_Целые_числа\\Home_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\C#_12_10_2023\\Task003\\Home_1.csproj": {
+    "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\C#_12_10_2023\\Task003_Все_Целые_числа\\Home_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\C#_12_10_2023\\Task003\\Home_1.csproj",
+        "projectUniqueName": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\C#_12_10_2023\\Task003_Все_Целые_числа\\Home_1.csproj",
         "projectName": "Home_1",
-        "projectPath": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\C#_12_10_2023\\Task003\\Home_1.csproj",
+        "projectPath": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\C#_12_10_2023\\Task003_Все_Целые_числа\\Home_1.csproj",
         "packagesPath": "C:\\Users\\asus.DESKTOP-C76C6GO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\C#_12_10_2023\\Task003\\obj\\",
+        "outputPath": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\C#_12_10_2023\\Task003_Все_Целые_числа\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

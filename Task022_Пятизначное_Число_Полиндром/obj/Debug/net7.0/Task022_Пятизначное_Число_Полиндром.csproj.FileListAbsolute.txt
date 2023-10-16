@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\bin\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\bin\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\bin\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\bin\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\bin\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\obj\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\obj\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\obj\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\obj\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\obj\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\obj\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\obj\Debug\net7.0\refint\Task022_Пятизначное_Число_Полиндром.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\obj\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\obj\Debug\net7.0\Task022_Пятизначное_Число_Полиндром.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task022_Пятизначное_Число_Полиндром\obj\Debug\net7.0\ref\Task022_Пятизначное_Число_Полиндром.dll

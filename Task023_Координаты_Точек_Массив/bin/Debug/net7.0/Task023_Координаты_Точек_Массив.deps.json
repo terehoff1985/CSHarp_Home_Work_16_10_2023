@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task023_Координаты_Точек_Массив/1.0.0": {
+        "runtime": {
+          "Task023_Координаты_Точек_Массив.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task023_Координаты_Точек_Массив/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

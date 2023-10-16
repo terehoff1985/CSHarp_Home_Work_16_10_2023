@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\bin\Debug\net7.0\Task023_Координаты_Точек_Массив.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\bin\Debug\net7.0\Task023_Координаты_Точек_Массив.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\bin\Debug\net7.0\Task023_Координаты_Точек_Массив.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\bin\Debug\net7.0\Task023_Координаты_Точек_Массив.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\bin\Debug\net7.0\Task023_Координаты_Точек_Массив.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\obj\Debug\net7.0\Task023_Координаты_Точек_Массив.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\obj\Debug\net7.0\Task023_Координаты_Точек_Массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\obj\Debug\net7.0\Task023_Координаты_Точек_Массив.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\obj\Debug\net7.0\Task023_Координаты_Точек_Массив.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\obj\Debug\net7.0\Task023_Координаты_Точек_Массив.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\obj\Debug\net7.0\Task023_Координаты_Точек_Массив.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\obj\Debug\net7.0\refint\Task023_Координаты_Точек_Массив.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\obj\Debug\net7.0\Task023_Координаты_Точек_Массив.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\obj\Debug\net7.0\Task023_Координаты_Точек_Массив.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Task023_Координаты_Точек_Массив\obj\Debug\net7.0\ref\Task023_Координаты_Точек_Массив.dll

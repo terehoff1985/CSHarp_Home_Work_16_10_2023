@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\bin\Debug\net7.0\Бинарный_поиск.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\bin\Debug\net7.0\Бинарный_поиск.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\bin\Debug\net7.0\Бинарный_поиск.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\bin\Debug\net7.0\Бинарный_поиск.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\bin\Debug\net7.0\Бинарный_поиск.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\obj\Debug\net7.0\Бинарный_поиск.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\obj\Debug\net7.0\Бинарный_поиск.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\obj\Debug\net7.0\Бинарный_поиск.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\obj\Debug\net7.0\Бинарный_поиск.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\obj\Debug\net7.0\Бинарный_поиск.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\obj\Debug\net7.0\Бинарный_поиск.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\obj\Debug\net7.0\refint\Бинарный_поиск.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\obj\Debug\net7.0\Бинарный_поиск.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\obj\Debug\net7.0\Бинарный_поиск.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\C#_12_10_2023\Бинарный_поиск\obj\Debug\net7.0\ref\Бинарный_поиск.dll
